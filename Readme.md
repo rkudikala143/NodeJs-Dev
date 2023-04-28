@@ -1,0 +1,1 @@
+How to initialize the npm
